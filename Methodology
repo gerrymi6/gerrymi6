@@ -1,2 +1,3 @@
 Passive Information gathering :
-  - Website Recon 
+  - Website Recon : simply visit to target website and check their about page aren't they revealing official mail ids or something else.
+  - Whois Enumeration : cmd : whois target.com  ----> o/p : points to focus on : Registrant name , name server(dns component)
