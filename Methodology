@@ -2,4 +2,4 @@ Passive Information gathering :
   - Website Recon : simply visit to target website and check their about page aren't they revealing official mail ids or something else.
   - Whois Enumeration : cmd : whois target.com  ----> o/p : points to focus on : Registrant name , name server(dns component). 
       * reverse whois lookup : whois ip  ---->  o/p : points to focus on : who is hosting ip (orgname , orgid, address, city, state, postalcode, country, regdate)
-  - Google Hacking :      
+  - Google Hacking :   e.g : site: target.com filetype:php //show php file of site , site: target.com -filetype:html //show non html files of site
