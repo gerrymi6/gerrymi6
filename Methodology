@@ -8,3 +8,6 @@ Passive Information gathering :
   - ReconNg : 
   - open source code : example github : https://github.com/targetname further in search filename:users .
   - shodan : https://www.shodan.io/ further in search user payload hostname:target.com
+  - security header scanner : https://securityheaders.com/ 
+  - SSL server test : https://www.ssllabs.com/
+  - 
