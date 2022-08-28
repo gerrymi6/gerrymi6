@@ -7,3 +7,4 @@ Passive Information gathering :
   - theharvester : theharvester -b all -d xyz.com // give info about xyz.com
   - ReconNg : 
   - open source code : example github : https://github.com/targetname further in search filename:users .
+  - shodan : https://www.shodan.io/ further in search user payload hostname:target.com
