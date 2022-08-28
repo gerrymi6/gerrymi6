@@ -4,10 +4,16 @@ Passive Information gathering :
       * reverse whois lookup : whois ip  ---->  o/p : points to focus on : who is hosting ip (orgname , orgid, address, city, state, postalcode, country, regdate)
   - Google Hacking :   e.g : site: target.com filetype:php //show php file of site , site: target.com -filetype:html //show non html files of site , intitle:"index of" "parent directory" //reveals sensitive files
   - netcraft(england based company(https://searchdns.netcraft.com/)) : provide useful info of site
-  - theharvester : theharvester -b all -d xyz.com // give info about xyz.com
-  - ReconNg : 
+   - ReconNg : 
   - open source code : example github : https://github.com/targetname further in search filename:users .
   - shodan : https://www.shodan.io/ further in search user payload hostname:target.com
   - security header scanner : https://securityheaders.com/ 
   - SSL server test : https://www.ssllabs.com/
-  - 
+  - pastebin : search on paste if someone mentioned some sensitive information about organization.
+  - user info gathering as follow :
+    * Email harvesting : theharvester -b all -d xyz.com // give info about xyz.com
+    * Password Dumps : search for passowrd leaks on non reputed sites like pastebin or on darkweb.
+    * https://www.social-searcher.com/  : search taget domain on it and it give information posted on sites about it . 
+    * twofi.php : https://digi.ninja/projects/twofi.php // word lis
+    * linkedin2username : https://github.com/initstring/linkedin2username //gives users of orgainisation
+    
