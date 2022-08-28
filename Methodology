@@ -4,4 +4,5 @@ Passive Information gathering :
       * reverse whois lookup : whois ip  ---->  o/p : points to focus on : who is hosting ip (orgname , orgid, address, city, state, postalcode, country, regdate)
   - Google Hacking :   e.g : site: target.com filetype:php //show php file of site , site: target.com -filetype:html //show non html files of site , intitle:"index of" "parent directory" //reveals sensitive files
   - netcraft(england based company(https://searchdns.netcraft.com/)) : provide useful info of site
+  - theharvester : theharvester -b all -d xyz.com // give info about xyz.com
   - ReconNg : 
