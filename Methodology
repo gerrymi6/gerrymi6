@@ -1,4 +1,4 @@
-Passive Information gathering :
+$Passive Information gathering :
   - Website Recon : simply visit to target website and check their about page aren't they revealing official mail ids or something else.
   - Whois Enumeration : cmd : whois target.com  ----> o/p : points to focus on : Registrant name , name server(dns component). 
       * reverse whois lookup : whois ip  ---->  o/p : points to focus on : who is hosting ip (orgname , orgid, address, city, state, postalcode, country, regdate)
@@ -16,4 +16,11 @@ Passive Information gathering :
     * https://www.social-searcher.com/  : search taget domain on it and it give information posted on sites about it . 
     * twofi.php : https://digi.ninja/projects/twofi.php // word lis
     * linkedin2username : https://github.com/initstring/linkedin2username //gives users of orgainisation
+  - Stackoverflow : https://stackoverflow.com/ used by devlopers for query related to code.
+  - https://osintframework.com/ : 
+  - Maltego : https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301  //
+  
+ $Active Information Gathering : 
+ - Interacting with DNS sever : cmd(kali) : host target.com // give ip , host -t mx target.com // give mail server
+ - 
     
