@@ -21,6 +21,7 @@ $Passive Information gathering :
   - Maltego : https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301  //
   
  $Active Information Gathering : 
- - Interacting with DNS sever : cmd(kali) : host target.com // give ip , host -t mx target.com // give mail server
- - 
+ - Interacting with DNS sever : cmd(kali) : host target.com // give ip , host -t mx target.com // give mail server // on hold
+ - Port Scanning with nmap :
+ 
     
