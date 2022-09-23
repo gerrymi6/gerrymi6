@@ -30,6 +30,11 @@ $Passive Information gathering :
  Vulnerability Scan via NMAP :
  $ nmap --script vuln target-ip
  
+ - Window Application Assessment tools: 
+    * $dirb url -r -z 10
+    * Burpsuite 
+    * $nikto -host=http://testphp.vulnweb.com/ -maxtime=30s
+ 
  
  
     
