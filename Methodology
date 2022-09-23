@@ -24,4 +24,12 @@ $Passive Information gathering :
  - Interacting with DNS sever : cmd(kali) : host target.com // give ip , host -t mx target.com // give mail server // on hold
  - Port Scanning with nmap :
  
+ Vulnerability Scanning : 
+ Nessus - scan - filter- exploit available - gear - disable group - (display vulnerability)
+ 
+ Vulnerability Scan via NMAP :
+ $ nmap --script vuln target-ip
+ 
+ 
+ 
     
