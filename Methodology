@@ -36,5 +36,6 @@ $Passive Information gathering :
     * $nikto -host=http://testphp.vulnweb.com/ -maxtime=30s
  
  
- 
+ - Directory traversal tools
+  feroxbuster -u url -w wordlistpath
     
