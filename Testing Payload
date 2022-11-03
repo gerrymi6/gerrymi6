@@ -1,0 +1,11 @@
+Host header Inject:
+  X-Forwarded-For: bing.com
+  X-Forwarded-Host: bing.com
+  X-Client-IP: bing.com
+  X-Remote-IP: bing.com
+  X-Remote-Addr: bing.com
+  X-Host: bing.com
+  Host: bing.com
+   Host: bing.com
+  
+  
