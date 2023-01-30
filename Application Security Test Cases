@@ -1,0 +1,3 @@
+Authentication : If the application have login page or if there is a mechanism of authentication in application then atlest test below TC of authentication.
+  - response manilulation (e.g: change status code to 200 ok , or make give opposite value of a parameter like true/false, this can be possible via burpsuite do intercept respponse)
+  - 
