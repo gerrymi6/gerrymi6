@@ -1,0 +1,4 @@
+Hack The Box Useful commands :
+
+Nmap -v -sC -sV -p- --min-rate=1000 -T4 ip // when found service apply default script on that sC(default script)
+
