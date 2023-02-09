@@ -1,0 +1,9 @@
+Apt-get remove openjdk*
+download latest java version manually and extract it.
+copy the file and paste it in /opt directory
+# update-alternative --install /usr/bin/java java /opt/jdk(filename)/bin/java 1
+# update-alternative --install /usr/bin/javac javac /opt/jdk(filename)/bin/javac 1
+# update-alternative --set javac /opt/jdk(filename)/bin/javac
+
+#java
+#javac -version
