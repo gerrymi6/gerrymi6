@@ -4,5 +4,10 @@ whois website -h ourmachineip
 Reverse IP lookup
 whois siteip -h ourmahineip
 
+Google Dork:
+
+site:megacorpone, -filetype:html(- excludes all html type pages from result)
+
+Netcraft:
 
 
