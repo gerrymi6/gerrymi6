@@ -1,0 +1,8 @@
+Whois:
+whois website -h ourmachineip
+
+Reverse IP lookup
+whois siteip -h ourmahineip
+
+
+
